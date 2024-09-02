@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://crow.damie.works/" target="blank"><img src="https://raw.githubusercontent.com/crow-browser/assets/main/stable/logo_color.png" width="120" alt="Crow Logo" /></a>
-</p>\
+</p>
 
 # Crow Project
 
